@@ -4,8 +4,7 @@
     "description": "Waveshare electronic",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "radio": "*"
+        "core": "*"
     },
     "files": [
         "README.md",
